@@ -9,16 +9,8 @@ Hello world
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Contents:
 
    DocPages/Types
    DocPages/Variables
    DocPages/ControlFlow
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
