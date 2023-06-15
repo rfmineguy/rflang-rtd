@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'rflang_docs'
+project = 'rflang'
 copyright = '2023, Riley Fischer'
 author = 'Riley Fischer'
 
